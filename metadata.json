@@ -1,0 +1,6 @@
+{
+  "name": "DesiMacro - Indian & Pakistani Food Average Bar",
+  "description": "Interactive nutritional, price, and macro average bars comparing iconic Indian and Pakistani dishes with meal builders, head-to-head comparisons, and calorie benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
